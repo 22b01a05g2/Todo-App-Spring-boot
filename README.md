@@ -19,7 +19,6 @@ This project demonstrates real-world full-stack development including authentica
 <img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/3a14f956-f726-4bcd-86f1-0407a58e0151" />
 
 
-
 📝 **Todo Management**
 - Create new tasks
 - Edit existing tasks
@@ -36,23 +35,26 @@ This project demonstrates real-world full-stack development including authentica
 # Options to Edit and Delete Tasks
 <img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/6be2e170-fad1-4e22-8d8c-3a893613e30f" />
 
+
 📂 **Filtering & Navigation**
 - View All Tasks
 - View Completed Tasks
 - View Yet to Complete Tasks
 - Clean navigation bar with dropdown filter
 
+# Filters to showcase tasks
 <img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/9c72f467-2b9e-4179-9097-cb85c6d503a1" />
 
 <img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/a2390e67-3b98-4ea0-ada5-e1df20fb5853" />
 
 <img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/c2fb71bc-37a4-4395-b3c9-4b9ebcad01dc" />
+
+
 🎨 **User Experience**
 - Responsive design (Mobile & Desktop)
 - Centered authentication pages
 - Toast notifications for create, edit, delete actions
 - Persistent database storage
-
 
 
 ## 💡 Project Highlights
